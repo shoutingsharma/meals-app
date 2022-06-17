@@ -20,6 +20,7 @@
 
 ## Screenshots
   - Desktop view
+  ![Screenshot (96)](https://user-images.githubusercontent.com/90435690/174224484-c493aa2a-e708-48e4-a404-51bc5760bd35.png)
     
       
 
